@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-size:30px;
+	font-style:italic;
+	text-decoration: underline;
+	color: red;
+}
+
+p {
+	text-align: center;
+	color: white;
+	font-size:22px;
+	margin: 3em;
+	
+}
+
+h2 {
+	text-align: center;
+	font-size:25px;
+	font-style:italic;
+	text-decoration: underline;
+	color: blue;
+}
+
+li {
+	text-align: center;
+	color: yellow;
+	font-size:20px;
+}
+p2 {
+	text-decoration: underline;
+	color: white;
+	font-size:18px;
+	margin: 20em
+	
+}
+
+p3 {
+	color: white;
+	font-size:18px;
+	
+}
+
+table {
+	color:white;
+	 border: 1px solid red;
+    width: 50% !important; /*Importante manter o !important rs */
+    margin: auto;
+}
+
+th {
+	font-size:25px;
+}
+
+td {
+		font-size:20px;
+}
